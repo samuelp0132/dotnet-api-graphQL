@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "HO3VFGoMmsybyOnh/eBQD3SbgEtHr9BmqHb1SiZ712AeNjKaXeCjJlyKRPTMBN+th+Dhp7sDV8UJaBm07w4MrA==",
+  "success": true,
+  "projectFilePath": "/Users/samuelperalta/Documents/repos/personal/dotnet-api-graphQL/Advertisement/Advertisement.Domain/Advertisement.Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/samuelperalta/.nuget/packages/microsoft.netcore.app.ref/6.0.11/microsoft.netcore.app.ref.6.0.11.nupkg.sha512",
+    "/Users/samuelperalta/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.11/microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
